@@ -1,4 +1,4 @@
-# ESP32‑CAM WROVER — Web Streaming Server (estável)
+# ESP32‑CAM WROVER — Web Streaming Server 
 
 ![ESP32](https://img.shields.io/badge/Board-ESP32--CAM-007ACC)
 ![Camera](https://img.shields.io/badge/Sensor-OV2640-informational)
