@@ -7,7 +7,7 @@
 > Projeto de teste e validação do **ESP32‑CAM (AI‑Thinker/OV2640)** com **servidor HTTP embutido**, streaming MJPEG em `/stream`, captura de imagem em `/jpg`, controle do **flash on‑board** e página web minimalista responsiva. O foco é **estabilidade**, **baixo consumo de RAM** e uma arquitetura simples de depurar.
 
 <p align="center">
-  <img src="./assets/stack_assembled.png" alt="ESP32-CAM montado na placa MB" width="75%">
+  <img src="./assets/stack_assembled.jpg" alt="ESP32-CAM montado na placa MB" width="75%">
 </p>
 
 ---
