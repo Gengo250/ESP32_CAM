@@ -4,7 +4,7 @@
 ![Camera](https://img.shields.io/badge/Sensor-OV2640-informational)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
-> Projeto de teste e validação do **ESP32‑CAM (AI‑Thinker/OV2640)** com **servidor HTTP embutido**, streaming MJPEG em `/stream`, captura de imagem em `/jpg`, controle do **flash on‑board** e página web minimalista responsiva. O foco é **estabilidade**, **baixo consumo de RAM** e uma arquitetura simples de depurar.
+> Projeto de teste e validação do **ESP32‑CAM (Wrover Module/OV2640)** com **servidor HTTP embutido**, streaming MJPEG em `/stream`, captura de imagem em `/jpg`, controle do **flash on‑board** e página web minimalista responsiva. O foco é **estabilidade**, **baixo consumo de RAM** e uma arquitetura simples de depurar.
 
 <p align="center">
   <img src="./assets/stack_assembled.jpg" alt="ESP32-CAM montado na placa MB" width="75%">
