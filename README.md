@@ -30,7 +30,7 @@
 |---|---|
 | **ESP32‑CAM AI‑Thinker** | ESP32 + sensor **OV2640**, flash LED on‑board (GPIO4), conector FFC da câmera, PSRAM integrado |
 | **Módulo de extensão (ESP32‑CAM‑MB)** | Interface USB‑C, conversor serial, alimentação estável e headers p/ _auto‑reset_ |
-| **Alimentação** | 5V estável (recomendado ≥ 1A). Para uso do flash, prefira fonte/USB robustos |
+| **Alimentação** | 5V estável (recomendado ≥ 1A). Para uso do flash, prefira fonte/USB tipo C robustos |
 
 <p align="center">
   <img src="./assets/esp32cam_front.jpg" alt="ESP32-CAM frente" width="45%">
